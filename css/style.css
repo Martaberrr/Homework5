@@ -1,31 +1,129 @@
-.team{
-    color: #282828;
-    font-size: 26px;
-    
+.div01{
+    width: 716px;
+    margin: 0 auto;   
+    text-align: center;  
 }
-.Intro{
-    color:#282828 ;
-    font-size: 62px ;
-}
-.par-1{
-    font-size: 35px;
-    color: #5F6980;
+.div02{
+    width: 760px;
+    margin: 0 auto;   
+    text-align: center; 
+    margin-bottom: 48px;
+    margin-top: 16px;
 }
 
+.team{
+    font-family: 'Inter';
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 26px;
+    text-align: center;
+}
+
+.Intro{
+    font-family: 'Inter';
+    font-size: 54px;
+    font-weight: 600;
+    line-height: 62px;
+    letter-spacing: -1px;
+    text-align: center;
+}
+
+.par-1{
+    font-size: 20px;
+    color: #5F6980;
+    width: 760px;   
+    text-align: center; 
+}
 
 .container1{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
+    
 }
 .container2{
     display: flex;
+    justify-content: space-between;
+}
+
+.image{
+    display: inline-block;
+    width: 310px;
+    height: 230px;
+    border-style: double;
+    border-width: 0px;
+    border-color: #EAECF0;
 }
 .names{
     color: #282828;
-    font-size: 18px
+    font-size: 18px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 16px;
+   
+
 }
 .roles{
     color: #3E3E59;
     font-size: 14px;
     display: inline-block;
+    padding-top: 4px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
 }
+
+.roles2{
+    color: #3E3E59;
+    font-size: 14px;
+    display: inline-block;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 24px;
+}
+.img-div{
+    margin-bottom: 16px;
+}
+.div{
+    background-color: #EAECF0;
+}
+.web-info{
+    width: 1306px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.text{
+    font-family: 'Inter';
+    font-size: 14px;
+    font-weight: 306;
+    line-height: 73px;
+    text-align: left;
+    color: #535353;
+    display: inline;
+    
+}
+
+.logos{
+    width: 104px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.links{
+    display: inline-block;
+    vertical-align: top;
+}
+.nav{
+    display: block;
+    margin-bottom: 15px;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.94px;
+    text-align: left;
+    color: #535353;
+}
+
+
+    
