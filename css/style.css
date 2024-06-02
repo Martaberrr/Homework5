@@ -1,0 +1,30 @@
+.team{
+    color: #282828;
+    font-size: 26px;
+    
+}
+.Intro{
+    color:#282828 ;
+    font-size: 62px ;
+}
+.par-1{
+    font-size: 35px;
+    color: #5F6980;
+}
+
+
+.container1{
+    display: flex;
+}
+.container2{
+    display: flex;
+}
+.names{
+    color: #282828;
+    font-size: 18px
+}
+.roles{
+    color: #3E3E59;
+    font-size: 14px;
+    display: inline-block;
+}
